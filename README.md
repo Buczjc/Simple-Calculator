@@ -4,8 +4,11 @@ Welcome to my Simple Calculator project! This calculator program was created in 
 
 ## Features
 • Addition
+
 • Subtraction
+
 • Multiplication
+
 • Input validation for non-integer values
 
 ## About
